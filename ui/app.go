@@ -1,9 +1,7 @@
 package ui
 
 import (
-	"fmt"
-
-	"tv-shows-manager/models"
+    "tv-shows-manager/models"
 	"tv-shows-manager/storage"
 
 	"github.com/charmbracelet/bubbles/key"

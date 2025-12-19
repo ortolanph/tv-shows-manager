@@ -1,8 +1,6 @@
 package ui
 
 import (
-	"fmt"
-
 	"tv-shows-manager/models"
 
 	"github.com/charmbracelet/bubbles/textinput"
