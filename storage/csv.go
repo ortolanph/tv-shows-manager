@@ -4,7 +4,7 @@ import (
 	"encoding/csv"
 	"os"
 
-	"github.com/ortolanph/tv-shows-manager/models"
+	"tv-shows-manager/models"
 )
 
 type CSVStorage struct {

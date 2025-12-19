@@ -3,7 +3,7 @@ package ui
 import (
 	"fmt"
 
-	"github.com/ortolanph/tv-shows-manager/models"
+	"tv-shows-manager/models"
 
 	"github.com/charmbracelet/bubbles/textinput"
 	tea "github.com/charmbracelet/bubbletea"

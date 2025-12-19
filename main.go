@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/ortolanph/tv-shows-manager/ui"
+	"tv-shows-manager/ui"
 )
 
 func main() {

@@ -3,8 +3,8 @@ package ui
 import (
 	"fmt"
 
-	"github.com/ortolanph/tv-shows-manager/models"
-	"github.com/ortolanph/tv-shows-manager/storage"
+	"tv-shows-manager/models"
+	"tv-shows-manager/storage"
 
 	"github.com/charmbracelet/bubbles/key"
 	"github.com/charmbracelet/bubbles/list"
