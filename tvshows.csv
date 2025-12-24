@@ -1,5 +1,4 @@
 show,season,yearWatched,source,tmdb_id,kind,season_rating
-The Vagrant Queen,1,2020,TV,99412,regular,0
 Legion,1,2020,Disney+,67195,regular,0
 Legion,2,2020,Disney+,67195,regular,0
 Legion,3,2020,Disney+,67195,regular,0
@@ -80,3 +79,4 @@ aka Charlie Sheen,1,2025,Netflix,298234,limited,8
 Marvel Zombies,1,2025,Disney+,138505,limited,9
 Star Trek: Strange New Worlds,3,2025,SkyShowTime,103516,regular,9.5
 The Simpsons,36,2024,Disney+,456,regular,7
+The Simpsons,37,2025,Disney+,456,regular,8
